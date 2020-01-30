@@ -1,7 +1,6 @@
 
 class Mycalculator(object):
-    pass
-
+    
     def __init__(self):
         pass
 
@@ -20,5 +19,5 @@ class Mycalculator(object):
 
 if __name__ == '__main__':
     calc = Mycalculator()
-    print(calc.add(1,2))
+    print("Done:", calc.mult(0.1,0.2))
 
