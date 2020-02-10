@@ -19,5 +19,5 @@ class Mycalculator(object):
 
 if __name__ == '__main__':
     calc = Mycalculator()
-    print("Done:", calc.mult(0.1,0.2))
+    print("Done:", calc.mult(0.1, 0.2))
 

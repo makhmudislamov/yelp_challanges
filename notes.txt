@@ -1,0 +1,6 @@
+Problem solving
+STEPS:
+1. caleify the Problem
+2. think about edge cases
+3. simplify
+4. summarize the problem
