@@ -4,3 +4,43 @@ STEPS:
 2. think about edge cases
 3. simplify
 4. summarize the problem
+
+                           <<<<<<<<2/13/2020 - Communicate your Skills>>>>>>>>
+Adela Chang >> schang@yelp.com
+Siddharth Ramakrishnan >> sidram@yelp.com
+
+WHITEBOARD COMMUNICATION
+- Interviewer is on your side
+- You may not know the exact answer/keyword. But communicate what are you thinking
+- Dialogue
+
+BEHAVIORAL INTERVIEWS
+Questions:
+1. Why do you want to work for this company?
+- Do research on the company
+- be specific >> add details
+- Know yourself >> which of your interests match with the company?
+
+2. Passionate group project
+- pick a good project >> ideally 2+ and you learned something
+- clearly define your contribution. specify your role
+- describe the impact. Is it live? Metrics: downloads, imporvements stats etc.
+- you can ask the Interviewer if they want to know any specific aspect.
+
+3. Describe a project
+- avoid acronyms
+- observe and adjust >> ask their level of knowledge
+- practice >> balance technical terms with english, Practice with non-technical friends
+
+4. Team disagreement/conflict situation
+- highlight conflict-resolution process, what steps you took
+- show the conflict as an opportunity to imporvements
+- speak about the situation neutrally >> speak about the teammates in a pro manner
+- focus on resolution >> strategies
+
+5. Do you have any questions for me?
+- current projects
+- typical day
+- why did they join the company
+- growth opportunity
+- how the teams are organized
