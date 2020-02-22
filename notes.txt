@@ -44,3 +44,56 @@ Questions:
 - why did they join the company
 - growth opportunity
 - how the teams are organized
+
+
+                           <<<<<<<<2/20/2020 - Working Throught the Yelp Question>>>>>>>>
+Matt S and Charles Hager
+
+Anatomy of an Interview
+1. Intro
+ - Interviewer talks about his role and the team
+
+
+ kinds of interview questions
+ - Coding >> writes code to given problem, less ambiguity
+ - design >> little/no coding, lots of ambiguity. You should ask a lot of questions here. 
+ - BEHAVIORAL
+ - other
+
+ Coding questions
+ part1 >> warm up, fairly easy
+ part2 >> refactor par1, optimization
+ how would you scale this? >> last 5 mins. what if the data is big. usually Interviewer has runout of questions
+
+ tips for Coding questions
+ - big O notation
+ - try to give multiple solution. 
+ - if you know superhard algo DONT do it. just mention it
+ - edge cases
+
+ "Scale it"
+ - distrubite it
+ - can you name a framework?
+ - map reduce
+ - how to merge the results
+ 
+
+ tips for design questions
+ "scenario. design the system that does X"
+ - ask a lot of questions. Dont start working before asking A LOT OF QUESTIONS
+ - decisions beased on gut feeling
+ - you need: database (sql or nosql), web server (describe API), extra things based on the question
+
+ Questions:
+ 1. how the data is stored
+ 2. how many data
+ 3. how many classifiers?
+ 4. how often the data is added
+ 5. runtime of a classifier
+ 6. requests to handle
+ 7. how often the requests are made
+
+ design web service
+ - what end points will you have? >> names, requests (GET, POST etc), results look like
+ - caching response
+ - monitoring
