@@ -37,6 +37,15 @@ def num_of_chains(list_of_businesses, city):
         elif city == business.location and business.name in all_chains:
             all_chains[business.name] += 1
     return all_chains
+
+
+def sort_chain(list_of_businesses, city):
+
+    dict_of_chains = num_of_chains(list_of_businesses, city)
+
+    for name, num in dict_of_chains.items():
+        print(name, num)
+
     
 
 
@@ -51,5 +60,5 @@ def num_of_chains(list_of_businesses, city):
     # print key value pair
 
 
-print(num_of_chains(businesses, "SF"))
+print(sort_chain(businesses, "SF"))
 
