@@ -13,13 +13,12 @@ class Business():
 
 
 
-
-
 businesses = [
     Business("Sturbucks", "SF", 100),
     Business("Sturbucks", "SF", 100),
     Business("Whole Foods", "SF", 101),
     Business("Whole Foods", "SF", 102),
+    Business("Whole Foods", "SF", 142),
     Business("Amazon", "SF", 103),
     Business("Amazon", "SF", 110),
     Business("McDonalds", "SF", 104),
@@ -28,5 +27,29 @@ businesses = [
     Business("McDonalds", "NYC", 105)
 ]
 
-# obj = Business()
+
+def num_of_chains(list_of_businesses, city):
+    
+    all_chains = {}
+    for business in list_of_businesses:
+        if city == business.location and business.name not in all_chains:
+            all_chains[business.name] = 1
+        elif city == business.location and business.name in all_chains:
+            all_chains[business.name] += 1
+    return all_chains
+    
+
+
+
+
+    # create dictionary
+    # iterate throught the list
+    # if the input city matches the busines location
+    # append dictionary key = business name, value = how many 
+    
+    # iterate over the dict
+    # print key value pair
+
+
+print(num_of_chains(businesses, "SF"))
 
